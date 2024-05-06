@@ -1,0 +1,573 @@
+Document History
+
+19/12/2022 Commenced
+
+15/01/2023 First draft
+
+22/01/2023 Added Attiya Appendix
+
+05/02/2023 Revision based on reviews
+
+13/08/2023 Minor edits
+
+18/02/2024 Add translation of R. Kook quotation as Appendix C
+
+02/04/2024 Minor changes
+
+29/04/2024 Updates & corrections
+
+©Daniel Feiglin, 2023, 2024
+
+dilogsys@inter.net.il
+
+{empty}(052) 386 9986
+
+ספר תהילים פרק קיט:קכ"ו
+
+*עת לעשות ליהוה הפרו תורתך:*
+
+גירסה מעודכנת:
+
+*עת לעשות לישראל הפרתי את תורתי:*
+
+מדברי פנחס מקורץ: ספר אמרי פנחס - שער ה - עניני לימוד התורה, נגלה ונסתר:
+נתן שבח והודיה להשי"ת על שלא בראו (בראו) בשנים שלא היה מצוי הזוהר בעולם
+כי הזוהר [הביאני לחיי עוה"ב נ"א] *האט מיך דערהאלטין ביי יודישקייט:*
+
+== Background
+
+It is חנוכה, תשפ"ג. Once again, we are invited to contemplate the
+miraculous success of the Maccabees against superior forces and the
+(non) miracle of the cruse of oil.
+
+The cruse of oil miracle was concocted to detract attention from the
+military and nationalistic aspects of the Maccabean revolt, which at the
+time of its formulation in the Talmud, would have endangered the
+Babylonian Jewish communities.
+
+However, there is a much larger miracle that has been running for just
+over 700 years. It shows little signs of winding down even if its
+character has changed dramatically. Like exaggerated use of antibiotics,
+it is becoming ineffective.
+
+During the closing years of the 13^th^ century, a series of Kabbalistic
+manuscripts started circulating in Western Europe. They only had a
+marginal influence on Rabbinic literature until the mid-16^th^ century
+when they became readily available as a printed work, known as the
+Zohar.
+
+The Zohar is a pseudepigraphic work attributed to R. Shimon bar Yochai
+(Rashbi) but more likely, the work of one or more Spanish Kabbalists
+dominated by R. Moshe ben Yomtov de Leon (RaMdaL, d. 1305).
+
+None of those details are new or particularly important for my purpose.
+There is something more to it, ignored by Kabbalists and academics
+alike.
+
+== Meta-History
+
+The period of the Crusades from 1095 to 1291 did not auger well for the
+Jewish communities in Europe nor the tiny community in Palestine. The
+calamitous 14^th^ century was little better. In Europe, the great famine
+of 1315 to 1317 was followed by the Black Death – a bubonic plague
+pandemic during 1347 to 1351 with endless wars in between. See for
+example, (Tuchman, 1978)[.underline]#.# In Chapter 5, there is an
+extensive coverage on the effects on the Jewish communities.
+
+In 1290, the Jews were expelled from England, starting a wave of similar
+expulsions. In Spain, the “Reconquista” was completed in 1410 coincident
+with a major wave of persecution of the Jews started by the Franciscan
+order. It was climaxed by the expulsion from Spain in 1492. The
+expulsions led to mass migrations of Jews east: Eastern Europe, Italy,
+Greece, Turkey and the Mediterranean basin.
+
+The first European ghettos came into existence in the early 16^th^
+century in and around Italy. In Morocco, “mellahs” existed 100 years
+earlier.
+
+We all know now what all this foreshadowed.
+
+Now, I take a deep breath, stepping back to take a God’s eye view of the
+13^th^ century and later.
+
+In the face of emerging and ongoing Christian persecution, Bnei Yisrael
+is on its way into a state of deep depression, hopelessness, failure of
+self-confidence and maybe worst of all, a crisis of faith. Not only are
+the Jews in danger of physical extinctionfootnote:[The attitude of the
+European Christians to the Jews hasn’t changed in over 1000 years. The
+difference between the medieval persecutions and the Shoah is just a
+matter of degree: During the Nazi period, modern industrial methods of
+mass production were applied to murder.], but such survivors as might
+be, would not be capable of continuing Israel’s mission. The near-arid
+uncompromising monotheism of RaMbaM would not do; in a potential
+collapse of traditional Rabbinic authority (more due to widespread
+murder than any kind of revolt), the people would need something else to
+which to cling: a mythical world that would give then something of an
+escape from the terrible reality but not a complete divorce from it. It
+is a matter of accommodating reality from a different direction. Now,
+for well over 1000 years, the leadership of Bnei Yisrael battled against
+the intrusion of myths into Jewish belief: Persian, Greek, Roman,
+Christian and Muslim. To create a new Jewish myth collection would
+provide a national life-raft even while running against the grain of
+everything that Israel stands for. What to do? עת לעשות לישראל הפרתי את
+תורתי.
+
+Here we pass from a God’s eye view to a mix of historiography and a
+historiosophy.
+
+The injection of the mythfootnote:[There was more than myth: It also
+contained a subtle form of “propaganda” for a new שיבת ציון: A return to
+the land of Israel. See [.underline]#Appendix A, R. Mordechai Attiya’s
+Letter#, below.] was accomplished by the use of R. Moshe de Leon (and
+possibly others). Whatever else he was, RaMdaL was an unmatched mystical
+thinker and a talented writer. The way his manuscripts were circulated
+may have bordered on scandalousfootnote:[The way these manuscripts came
+about and were circulated is covered in (Scholem, 1946), (Tishbi, 2006
+(3rd edition, 8th printing))[.underline]#,# (Huss B. , 2008), (Huss B.
+(., 2011), (Dan, 2015), (Abrams, 2013) and many others.], but it worked.
+For the next 200 years (1300 – 1500) not much seemed to happen; the
+manuscripts were circulated by manual copying and gradually becoming
+accepted as the work of the Rashbi – not without opposition. The
+opposition which never really disappeared was simply drowned out by
+widespread acceptance, as the manuscripts percolated down to the popular
+level. They obviously filled a very deep need.
+
+In any event, to this day, no one really knows for certain who wrote the
+Zohar, adding to the air of mystery surrounding it.
+
+The 16^th^ century saw the worst effect of the expulsion from Spain and
+was also the beginning of the Ghetto period so some “myth acceleration”
+would be needed: Printing had been brought to Europe (from the far
+east). The first Jewish manuscripts to be printed, were not the תנ”ך,
+not the Talmud but the work of RaMdaL and named by the Jewish printers
+(Manitoba, Cremona [1558], Mantua [1561], Salonika [1597]), “ספר הזוהר”.
+
+It was quickly taken up (among less known others) by R. Moshe Cordovero
+(RaMaK)footnote:[I suspect that the RaMaK would approve my approach. See
+pp. 37-39 of בשערי הקבלה של רמ"ק by ברכה זק. Pending.] and R. Yitzchak
+Luria (Ari) of Zefat.
+
+Of course, it did not run completely smoothly: 100 years after the Zefat
+school faded away, the Zohar and the Ari’s work formed the basis (if
+distorted along the way) of the Shabbtai Zvi movement which, during the
+late 17^th^ century, took the myth to a ridiculous extreme.
+
+So, corrections were needed: Around the turn of the 18^th^ century, the
+Ba’al Shem Tov founded the Chassidic movement. The Chassidic philosophy
+was inward motivated: The עבודת ה' of the individual.
+
+For those who didn’t like the charismatic based Chassidic way, the Vilna
+Gaon would provide an intellectual alternative also based on the Zohar,
+the Ari and others.
+
+Meanwhile some of the disillusioned Shabbtai Tzvi followers joined the
+Haskalah Movement.
+
+All three movements had something in common:
+
+* The Chassidic movement set up communities in Zefat and Chevron about
+1840.
+* The followers of the Vilna Gaon set up a community in Jerusalem about
+1820.
+* From the Haskalah Movement, emerged the modern secular Zionist
+movement, also during the 19^th^ century.
+
+In addition, the Bilu group came to Rishon LeZion about
+1882.footnote:[As a personal note, in 1882, a Chabad Chassidic group
+(led by Yaakov Zvi Feiglin) settled Mishmar HaYrden. Furthermore, my
+paternal great grandmother was one of the בנות העליה הראשונה (Fruma
+Chachamovitz (Tzikinivsky)).]
+
+== Where We are Now
+
+During the last 120 years we have seen two World Wars, the Shoah, the
+establishment of the modern state of Israel. The largest community of
+Jews is now in Israel – larger than any time in history. However, there
+is still no clear national identity or consensus. That is an obvious
+consequence of קיבוץ גלויות from many disparate cultures. The “Zohar
+correction” has reached its end. The book by Garb, (Garb, 2009)
+summarizes the situation. The Classic Kabbala has become something very
+new and different as part of the New Age culture. (A less charitable
+summary would be that it has descended into undisciplined self-indulgent
+triviality.)
+
+Whichever you choose to see it, it has run its course. The kind of
+superstitions engendered by gnostic myth is just what we do not need to
+meet the realities facing us.
+
+The period from the 13^th^ century to the late 18^th^ century saw
+massive historic changes. But for the Jews, locked into Christian and
+Islamic limitations (if not outright persecution), little had changed.
+The tone might well have been as expressed by R. Pinchas of Koretz,
+
+*"דר זוהר האט מיך דער האלטין ביי יודישקייט"*
+
+(“The Zohar kept me within Judaism”)
+
+From where we are now, we don’t have the luxury of begin able to take
+another 200 years to trigger corrections. We need something immediate,
+effective and capable of widespread comprehension and acceptance.
+
+The purpose of any such correction is primarily to get the diverse
+communities in Israel to work together, to stop wasting time and energy
+tearing themselves apart from within over trivialities that will be
+forgotten a generation from now. The endless
+Dati-Chiloni-Socialist-Capitalist-Sefardi-Ashkenazi-one state-two state
+conflicts will prove to be transitory if this ancient childish start-up
+nation might care to grow up.
+
+== Where We are Going Nextfootnote:[The answer to the next correction question lies deep in my Prophecy Notes, written between 1991 and the present! Since it is rather unlikely that anyone reading this will have access to my Prophecy Notes or be inclined to plough through them if they do have access, I will summarize the relevant points in this section.]
+
+=== Preliminaries: Internal and External Revelation
+
+There are two apparently unrelated parts of the required correction. But
+in fact, they are very closely related. Before getting into details, I
+must explain two concepts.
+
+==== Internal Revelation
+
+The kind of divine correction that I described in [.underline]#section
+‎2# is an example of Internal revelation, from the outside, inwards. It
+was completely private to the author(s) of the Zohar and those who
+“picked it up” and “ran” with it. It was private in the sense that it
+became the internal “property” of Israelfootnote:[With the exception of
+several Christian scholars.] intended to serve the survival purpose
+described above.
+
+==== External Revelation
+
+External revelation is addressed to the world at large - outside Israel,
+being based on something that Israel is or does.footnote:[“ממלכת כהנים
+וגוי קדוש”] It is not something with which we are directly familiar
+although whisps of it may be seen through Israel’s interactions and
+contributions to the world since 1948. To really have the desired
+effect, Israel needs a constructive “wakeup call”, not another war, not
+a natural disaster, not another internal political crisis but something
+of a קול דממה דקה. It is essentially a מעשה חסד intended to trigger a
+national constructive behavior pattern. Israel (like it or not!) is the
+instrument of any external revelation.
+
+A prerequisite (or may be part) for any such מעשה חסד is the
+re-introduction of a form of נבואה. I take this up in
+[.underline]#section ‎5# below.
+
+=== The Correction, Part 1: Trigger
+
+The correction is triggered by a מעשה חסד from above:
+
+I claimed that for contemporary Israel and Judaism to pull itself out of
+its current rut, what is needed is a unifying "event" which will impress
+Israel alone. It need not and perhaps should not involve the Gentiles.
+It should not be associated in any way with the existing political
+establishment, so that nobody can "take credit" for it. That it is
+needed is painfully obvious. What form it might take - God alone knows.
+
+We can anticipate something of its form: When it happens, it will be
+immediately obvious to any intelligent school kid. However, the media
+with all their preconceptions and agendas will be the last to see it –
+perhaps they will after several days or a week and that will be their
+nemesis: No one will heed them. After all, who is interested in
+yesterday’s news?
+
+=== The Correction, Part 2: Response
+
+A public largely indifferent and unheeding of the raucous noise of the
+electronic media will be open to a more subtle message carrying a touch
+of prophecy. What might it be? By whom?
+
+== The Restoration of Prophecy (נבואה) in Israel
+
+=== Beginnings
+
+Let me start with what נבואה is *not*: It is not someone standing on a
+soap-box crying out “כה אמר ה' ...”. Those days have come and gone.
+
+The prophet operates at a level a little below the conscious response
+level and rather higher than the level of subliminal suggestion.
+
+A prophet cannot operate in a public which itself does not have at the
+very least a small touch of prophetic ability. But that’s what we all
+are. Otherwise, we wouldn’t be here.
+
+Here is the way Rav Kook says it ([.underline]#קוק#)
+:footnote:[Translated into English in Appendix C, with the assistance of
+ChatGPT.]
+
+שמונה קבצים, קובץ 4, י"ז:
+
+ואקשיב ואשמע מתוך מעמקי נשמתי, מתוך רגשי לבבי, קול אדני קורא. ואחרד חרדה
+גדולה, הככה ירדתי כי לנביא השקר אהיה, לאמר ד' שלחני ולא נגלה אלי דבר
+אדני. ואשמע קול נשמתי הומה:
+
+ספיחי נבואות הנה צומחות, ובני נביאים מתעוררים, רוח הנבואה הולך ושט בארץ,
+מבקש לו מפלט, דורש לו גבורים, מלאי עזוז וקודש, הם ידעו לכלכל דבר, האמת
+לאמתה יגידו, יספרו איך נגלה להם דבר ד', לא ישקרו ולא יחניפו, את רוחם
+באמונה יוציאו.
+
+ורוח אמונים,יקר מחרוץ, ירומם עם, וישראל יעמוד על רגליו. יחל לחוש את
+סגולתו מימי קדם, ידע כי לא שקר עשה עט, לא שקר לבש גאות. גם בעת אשר המון
+לאומים, לבזה נפש למתעב גוי שמוהו, סגולות עולמים לו. שואף הוא אל חסנו
+מעולם, וחסנו חוסן אל הוא, חוסן כל חכמה כל תום ויושר.
+
+ואם המורשה, בלבושיה הרבים, לא גלתה הוד יפיה, תבא רוח הנבואה, ובראשית
+דרכה תברר את אשר עם לבבה, בשפה ברורה, וברור השפה יכה גלים, עז יתן
+לנדכאים.
+
+וסגולת אל העליונה אשר לישראל, ידע ברוח אלהים אשר עליו,אשר רק בארצו עליו
+תגלה, ומרחוק יזכר את אשר שכח, יזכר כי לו ארץ רבת ערך, רחבת ידים בעדו,
+וגאון עולם נגד כל העמים.
+
+וישא רגליו יעקב, ומשפחות משפחות, אחד אל אחד יקובצו, וארץ שוממה תבנה,
+ורוח ה' אשר עליו תחל לפעם בצאצאיו אשר נזנחו, ומאפל ומחשך עיני עורים
+תראינה.
+
+שמונה קבצים, קובץ 8, תת"כ:
+
+באמת חסרון רוח הקודש בישראל הוא לא חסרון שלמות, כי אם מום ומחלה, ובארץ
+ישראל היא מחלה מכאבת, שהיא מוכרחה להרפא, כי אני ד' רפאך.
+
+The process won’t take place overnight; it may even take several
+generations but it will happen.
+
+=== A Word About Terminology
+
+We have used the words prophet and נביא interchangeably with little
+qualification. We naturally associate נביא with the figures described in
+the תנ"ך. The new נביא of whom we speak, will be quite different – but
+not in any way we can define now. We have already largely excluded the
+oratorical style of “כה אמר ה' ...”. The above quotations from Rav Kook
+also leave the question open. *The only claim we can make is that it
+will be some form of communication from Above that the receiver can
+convincingly transmit to us* without need of the bought-off commercial
+(or government) mass media.
+
+The English translation of נביא as “prophet” is problematic in a
+different way. The “prophet” is a western Christian idea popularized for
+example, in Cecille B. De-Mille’s “Ten Commandments” film and Frank
+Herbert’s Dune novels. In western culture, a “prophet” is a glorified
+fortune teller or worker of miracles to support his “message”. Our usage
+of “prophet” is just a convenient translation of נביא (with its
+limitations), carrying no additional western cultural baggage.
+
+=== Getting Started
+
+So, we all have the beginnings of prophetic ability – ספיחי נבואה of Rav
+Kook. That is, we have the beginnings of an ability to “hear” a real
+gifted נביא. This is quite a delicate relationship and easily destroyed
+by abuse - as we know from the תנ”ך accounts of false prophets and their
+effects.
+
+There are two conditions for it all to work:
+
+[arabic]
+. A prophet is “nobody” *without* his communityfootnote:[I use
+“community” in the sense of “target audience”, but more so. The נביא is
+also part of his community].
+. A prophet communicates with others in a non-standard way.
+
+In respect of 1, I disagree with the philosophic view (espoused by
+RaMbaM among others), that prophecy was the apex of personal development
+following a pure life of philosophical reflection.
+
+Item 1 says that first and foremost that a prophet does not live in a
+vacuum. Item 2, says that he is a communicator, but in a different way
+from a leader, a teacher, a Rebbe, a parent or any other charismatic or
+emotional persona.
+
+=== A Prophet is a Mirror
+
+A prophet functions in his community as a mirror. People coming into
+contact with him, (not necessarily hearing anything directly prophetic),
+somehow find themselves looking into a very clear mirror, and
+experiencing a deep view of their own personalities. The process can
+take place in a split second, or it may "work" on the person later. The
+contact is never neutral and a real prophet cannot hidefootnote:[Under
+some circumstances, he can run away! C.f. Yonah ben Amittai.]. Further,
+there is a feedback effect: The more a prophet functions in the
+community, the stronger his own ability becomes. If he absconds from the
+community, his own abilities will also atrophy.
+
+The foregoing process is hard to quantify beyond what I have already
+said. It is, as I indicated earlier quite different from a Rebbe-Hassid
+or teacher-student relationship. The latter are both voluntary. The
+prophet exerts his influence by virtue of what he is. What he does and
+says is reinforcement.
+
+The prophet will be respected, scorned, loved or hated by people who may
+not initially understand why. Their emotional reaction will as often as
+not be a measure of their own self-image.
+
+=== There is No Prophecy by Remote Control 
+
+A prophet cannot function by remote control. He may certainly say his
+piece by radio, TV, email, the Internet or written word on paper. The
+facts may reach their intended audience, but their prophetic content may
+be largely lost. So, there will be no soap box oratory, but definitely
+some personal contact is required. How a נביא will ultimately overcome
+these limitations, is an interesting open issue.
+
+In practice, the *mirroring* phenomenon seems to have worked at
+different levels throughout the period of classical prophecy. What
+disappeared shortly after שבת ציון, was not prophetic ability, but the
+mirroring process. Prophecy is based on a delicate signal, and was
+drowned out by the noise coming from the emerging Persian, Greek and
+Roman cultures.
+
+The emerging ability of the community to filter out from the media, all
+but the important incoming signals, is a sort of skill to "switch off"
+most of the outside clutter. Continuation of such a process should
+re-enable the sensitivity to more subtle nuances, such as the prophetic
+spirit.
+
+=== Practical Considerations 
+
+Here then are the practical results: Potential נביאים can only grow in
+their ability as fast as the community in which they operate can absorb
+it. Passing the threshold from candidate to בן נביא to נביא must be
+paralleled by public awakening - תמורות חברתיות, and one cannot get too
+far ahead of the other.
+
+In the case of כנסת ישראל, the communal passage will be associated with
+the מעשה חסד of which I introduced in [.underline]#section ‎4.1.2#.
+
+The public awakening will not go unchallenged either by entrenched
+orthodoxy or secular authority. The בני נביאים andנביאים will quickly
+need to prove that they are a social asset, rather than just another
+fringe lunatic group.
+
+== Where We Are Now
+
+I started writing this essay in December, 2022. Since then, events are
+transpired at breakneck pace.
+
+Instead of the מעשה חסד I had hoped for, we received a stinging slap on
+the face on 07/10/2023 that is still unresolved. But strangely, it is
+having the main effects of the מעשה חסד:
+
+The war has unified large parts of Israeli society previously divided
+over transient issues. That much is obvious to any intelligent school
+kid. However, the left – dominated media with all their preconceptions
+and agendas after six months of war, have yet to see it.
+
+Despite the war casualties, the “slap in face” may yet contain the seeds
+of something positive.
+
+This issue is pending.
+
+== R. Mordechai Attiya’s Letter
+
+In 1928, R. Mordechai Attiyafootnote:[R. Attiya settled in Mexico City
+in 1922 where he functioned as the Rav HaKehilla HaChalebi. He lived
+there until 1936 when he moved to Jerusalem, remaining there until his
+death in 1978. For a bio, see,
+https://he.wikipedia.org/wiki/%D7%9E%D7%A8%D7%93%D7%9B%D7%99_%D7%A2%D7%98%D7%99%D7%94[Rav
+Mordechai Attiya].] published a letter addressed primarily to Talmidei
+Chachamim, Roshei Yeshivot and the like. The letterfootnote:[Here is the
+original 1928 letter:
+https://www.dropbox.com/s/rvxuhzjwvmtxek2/RavAttiyaLetter-1928.pdf?dl=0[1928
+letter]. Note that this is a private link that will probably become
+inactive after my time.] was his introduction to the RaMaK’s Pardes
+Rimonim, entitled Sha’ar HaPardes and reprinted after his death. (Sha'ar
+Hapardes, 2007).
+
+The letter was an impassioned plea to the religious leaders of the time
+to take the initiative to go on aliya with their communities. He used
+extensive quotations from the Zohar and Tikkunim to support his case.
+Some of the Zohar references predicted dire consequences should the call
+not be heeded.
+
+Some claim that he foresaw the Shoah; that may be something of an
+exaggeration. There is however, no doubt that at the time, he saw no
+future for the Jewish communities in Europe.
+
+R. Attiya’s call was not taken seriously – if not completely ignored.
+
+All that notwithstanding, during the 1930s Ze’ev Jabotinsky voiced
+similar concerns about the future of the Jewish communities in Eastern
+Europefootnote:[See
+https://en.wikipedia.org/wiki/Ze%27ev_Jabotinsky[Jabotinsky: 1930s
+Evacuation Plan].] – without the benefit of a Kabbala – Zohar education.
+
+Jabotinsky’s call was also not taken seriously – if not completely
+ignored.
+
+== References
+
+Abrams, D. (2013). _Kabbalistic Manuscripts and Textual Theory._
+Jerusalem: Magnes Press.
+
+Attiya, M. R. (2007). _Sha'ar Hapardes._ Jerusalem: Private publication
+by the family.
+
+Dan, J. (2015). _תולדות תורת הסוד העברית._ Jerusalem: The Zalman Shazar
+Center for Jewish History.
+
+Garb, J. (2009). _The Chosen Will Become Herds._ Yale University Presss.
+
+Huss, B. (. (2011). _Kabbalah and Contemporary Spiritual Revival._
+Beer-Sheva: Ben-Gurion University of the Negev Press.
+
+Huss, B. (2008). _בזוהר הרקויע._ Jerusalem: Bialik Institute, Ben Zvi
+Institute.
+
+Scholem, G. (1946). _Major Trends in Jewish Mysticism._ New York:
+Schoken Books Inc.
+
+Tishbi, F. a. (2006 (3rd edition, 8th printing)). _The Wisdom of the
+Zohar (משנת הזוהר)._ Jerusalem: Bialik Institute.
+
+Tuchman, B. W. (1978). _A Distant Mirror._ New York: Ballantine Books.
+
+קוק, ה. (n.d.). _שמונה קבצים._ ירושלים: מוסד הרב קוק.
+
+== Translation of Rav Kook’s Remarks
+
+*Source:* Shmona Kvatzim
+
+[arabic]
+. Kovetz 4, Section 17
+
+"And I listened and heard from the depths of my soul, from the emotions
+of my heart, the voice of the Lord calling. And I trembled with great
+fear, for I descended thinking I would be a false prophet, saying, 'The
+Lord sent me, yet the word of the Lord was not revealed to me.' And I
+heard the murmur of my soul saying:
+
+The shoots of prophecies are sprouting, and the sons of prophets are
+awakening. The spirit of prophecy wanders the earth, seeking refuge,
+seeking warriors, full of might and holiness. They will know how to
+sustain a matter, they will speak truth to its truth, they will recount
+how the word of the Lord was revealed to them, they will not lie or
+flatter, they will bring forth their spirit with faith.
+
+And the spirit of the faithful, more precious than fine gold, will rise
+with them, and Israel will stand on its feet. It will begin to feel its
+ancient magic, knowing that falsehood has not made its pen, nor has
+falsehood adorned its pride. Even in a time when the multitude of
+nations despises a nation that names it, it will have the world's
+wonders. It aspires to our treasure from eternity, and our treasure is a
+refuge to it, the treasure of all wisdom, all integrity, and
+uprightness.
+
+And if the heirloom, in its many garments, has not revealed the beauty
+of its splendor, the spirit of prophecy will come, and at the beginning
+of its path, it will clarify what is in its heart, in clear language,
+and clear speech will strike waves, giving strength to the oppressed.
+
+And the highest magic that belongs to Israel, known by the spirit of God
+upon it, which will only be revealed on its land, and from afar will
+remember what it forgot, will remember that it has a land of great
+value, with wide hands for it, and the pride of the world against all
+nations.
+
+And Jacob will lift his feet, and families upon families, one after the
+other, will gather, and a desolate land will be built, and the spirit of
+the Lord that is upon it will begin to revive in its offspring that were
+neglected, and from darkness and gloom, the eyes of the blind will see.”
+
+[arabic, start=2]
+. Kovets 8, Section 420
+
+“Truly, the lack of the Holy Spirit in Israel is not a lack of
+perfection, but a defect and a disease, and in the land of Israel, it is
+a painful disease that must be healed, for I am the Lord your healer.”

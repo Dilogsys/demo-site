@@ -1,0 +1,941 @@
+== Document History
+
+‏‏30/07/2001 Original
+
+02/01/2006 Editorial clean up
+
+10/03/2007 Editorial fixes
+
+26/07/2015 Reformatting, minor corrections
+
+25/10/2016 Reformatted to new template
+
+18/04/2022 Editorial corrections and a Post Script
+
+30/09/2022 Minor editorial correction
+
+26/12/2022 Editorial review, change to General_Use.dotx template
+
+11/04/2023 Hebrew formatting corrections
+
+07/12/2024 Add section 4.8. TOC formatting corrected
+
+11/12/2024 Minor edits
+
+©Daniel Feiglin, 2001 - 2024
+
+dilogsys@inter.net.il
+
+{empty}(052) 386 9986
+
+== Preface
+
+הבט נא השמימה וספר הכוכבים אם תוכל לספר אתם ... (בראשית ט"ו, ה')
+
+שאו מרום עינכם וראו מי ברא אלה המוציא במספר צבאם, לכולם בשם יקרא מרב
+אונים ואמיץ כח איש לא נעדר: (ישעיהו מ', כ"ו הפטרת פרשת ואתחנן, עליה
+לתורה של בני יחזקאל זאב לפני החתונה)
+
+שמעו אלי רדפי צדק מבקשי י-ה-ו-ה, הביטו אל צור חצבתם ואלמקבת בור נקרתם:
+
+הביטו אל אברהם אביכם ואל שרה תחוללחם, כי אחד קראתיו ואברכהו וארבו:
+
+(ישעיהו נ"א, א'-ב' הפטרת פרשת עקב, שבת שבע ברכות, יחזקאל זאב ותמרה
+יהודית)
+
+This essay is not directly related to my main theme of prophecy. In many
+ways however, it builds on the ideas of my previous Notes as well as on
+my experiences of the last decade. It takes the opening quotations quite
+literally, and so doing, introduces a prophetic twist to our subject.
+
+These lines are written at a critical time for Israel: We are deep in
+the throes of our second War of Independence, but unfortunately, the
+people who run this country are still blinkered by the so called “Peace
+Process”. Despite the very hard times ahead, to which I have made more
+than ample reference in my Visions Diary, this essay is ultimately a
+document of hope, indeed victory, but not in the usually accepted sense
+of the word.
+
+I have discussed some of the material below with my third child, יחזקאל
+זאב (חזי), who will be marrying תמרה יהודית אהרונוב (כהנים) on
+05/08/2001, ט"ז אב תשס"א, בעהשי"ת. This essay is dedicated to them in
+the expectation that they will start to answer my sixteen thousand
+questions. תנא דבי חזי ותמרה...))]
+
+== Why sixteen thousand questions?
+
+Let me start by taking a page from Isaac Asimov: There isn’t the
+slightest doubt in my mind, that during the next 50-100 years, mankind
+is going to make the great leap into space, and in doing so change
+itself irrevocably in ways we cannot even begin to imagine. The question
+that inevitably presents itself to me as a Jew, and a citizen of modern
+Israel, is: Are we going to be dragged into the space age kicking,
+screaming and protesting? Or perhaps, are we going to bumble along
+improvising from crisis to crisis? Or perhaps, for once in our
+gloriously miserable history, might we get it right by doing some
+careful preparation?
+
+I continue the Asimov thought mode: Going out into space has 13 basic
+phases, none of which cannot be skipped – and it matters not a whit what
+kind of super light speed relativity defying propulsion unit you happen
+to have available. Here they are:
+
+[arabic]
+. Earth – where we are now (and hopefully a bit longer!)
+. In transit
+. Geocentric orbiting space station – already in place, and even an
+embryonic tourist industry.
+. In transit
+. Moon permanent station
+. In transit
+. Heliocentric orbiting space station – with intent to commence mining
+for minerals in the asteroid belt
+. Asteroid based permanent station
+. Concurrently with item 7, non-Earth like planetary station (e.g. Mars
+or Venus) in the Solar system
+. In transit to an inter-stellar destination
+. Orbiting station in another stellar system
+. Environmentally hostile planet in another system
+. Environmentally friendly planet in another system
+
+All this is fine, but people are people – even with all the incredible
+changes in the offing. They love, they hate, they are happy, they are
+angry, they are greedy, they are generous, they are bold and they are
+afraid. And somewhere on a space station circling Alpha Centauri, about
+4.3 light years from here, there will be a couple who want their
+new-born son (a distant descendent of mine) to have a ברית מילה, and
+thirteen standard years later, a בר מצוה.
+
+For the sake of argument, let us assume that each of the 13 phases above
+can be split into a pioneering period, and a stability period. For
+example, the conditions on the first Moon station will be very rugged
+and even dangerous, until basic construction is completed, and the
+community adjusts itself to the environment – not that dissimilar to the
+phases in setting up a ישוב קהילתי as we know it.
+
+Further, for the sake of argument, assume that there really are 613
+מצוות. We need to test each one, to see whether it should be observed or
+how it should be observed in 2 x 13 situations, giving a 3-dimensional
+matrix with a total of 613 x 2 x 13 = 15938 cells to examine – my 16,000
+questions. And who knows, could there be more dimensions and
+classifications that I have thought of?
+
+I am not suggesting for a moment that we have the audacity (or the
+stupidity) to try and lay down rules and regulations for conditions we
+cannot even imagine 100 years down the line.
+
+What I am saying, is that we must start to examine those cells close
+enough to our own period, not with the view so much, of laying down hard
+and fast הלכה, but more with the view of laying the groundwork of how to
+go about it, in a way in which we can maintain that which is what
+Judaism is all about. In other words, we will become modern תנאים or
+even more.
+
+== A reassessment of objectives
+
+The previous section leaves far more than 16,000 questions unanswered.
+In a sense they are merely technical. Before we dare to think about our
+couple giving their son a ברית מילה in orbit around Alpha Centauri, we
+need to ask ourselves some much harder questions, touching the core of
+our existence.
+
+What are we here for? What are we supposed to be doing?
+
+It is easy to run off all the usual clichés like: We are here to be a
+light unto the nations … We are here to serve God … and so on. None of
+these answers will be any more convincing 100 years hence than they are
+today, and for most part invoke polite disinterested boredom, which is
+about as much as they deserve.
+
+We need to drop back about 4,000 years and ask ourselves, who were the
+real founders of Israel and what were they out to achieve? I am going to
+assume here that Abraham, Isaac and Jacob were very real flesh and blood
+personalities, not allegories, myths or any other such nonsense. In
+simplest terms, Abraham got up one morning, looked out his window and
+started to ask himself some hard questions – not all that different from
+ours, only he didn’t have the benefit (or perhaps the burden) of the
+hindsight of 4,000 years of documented historical experience upon which
+to fall back. His basic position, as it emerged, was close to modern
+ethical monotheism: There is a Creator, ergo I am as part of creation,
+somehow responsible for that much of it around me that I can seem to
+affect. And so, we get the famous אגדות about הכנסת אורחים, which by the
+standards of his time, was rather exceptional behavior. Compare Abraham
+with the people of Sodom. But that was not enough. Abraham asked the
+next and obvious, if slightly naïve question: If there is “something out
+there”, can I communicate with it? On this point, Abraham would have
+been well enough aware of the ecstatics, visionaries, oracles and other
+forms of psycho-chicanery associated with the deities of his time, as
+not to fall into the same spiritual dead-end of the surrounding pagans.
+
+He must have got the surprise of life, when he started to get feedback
+from “out there”. Some of the feedback shocked him out of his wits (ברית
+בן הבתרים, העקדה) but other responses were gentler. Enter prophecy. In a
+way he was lucky: Being the first to try something extremely unusual,
+meant that he was not restricted by someone else’s prejudices and
+dogmas, nor was he particularly likely to be locked up for hearing
+little voices (although after fairly rough treatment in Ur Kasdim, he
+may have been a little more circumspect after he arrived in Canaan).
+
+Judging from subsequent events, Abraham tried to set up a clan, which
+would draw its values from what we perceive as prophetic ethical
+monotheism. It would also spread its doctrine by example, and of course,
+communal activity. To various degrees, we see a continuation of this
+line (Joseph, but not always completely successful) all the way into the
+Egyptian slavery experience. At this point, the “tradition” was largely
+devoid of serious mythology and very much a pragmatic survival issue.
+The Creation story was known, but somehow it was remolded to throw away
+pagan elements, and at the same time, introducing the ideas of בריאה יש
+מאין, אדם שנברא בצלם and the שבע מצוות בני נח.
+
+I would like to dwell for a moment on the idea of “prophetic ethical
+monotheism”. In my previous Notes, I have claimed more than once that
+תפילה and נבואה are complementary sides of communication with God. You
+can’t have one without the other. תפילה without some kind of feedback,
+be it the most subtle emotional shift – is a sham. A claim of נבואה by
+one who has never tried to initiate the process – is nearly always a
+psychiatric case. Ethical monotheism as it stands, is dry, and interests
+no one, except perhaps a few professional philosophers. The legacy of
+Abraham was prophetic. But it is not mystic in the Eastern sense, nor is
+it myth based (which makes life difficult for followers of post medieval
+קבלה). The relationship, developed and perfected by Moshe, was of a
+simple I-You form, where communication could be effected at any
+reasonable time or place, without going into trances, using drugs or any
+other gimmicks. That is indeed, the foundation of Jewish תפילה, which
+unfortunately has gotten itself bogged down in lengthy verbosity for its
+own sake, with little regard for the relevance or even the simple
+meaning of what is said. The existing system is a bit like filling out a
+standard form several times a day. A part of the antagonism of the
+non-observant community stems from the boring repetitive oft-irrelevant
+wordiness of the liturgy. I have chosen to mention this here, because
+the issue of תפילה does not fit as neatly as you might think, into my
+matrix of 16,000 questions. It is the question before all of them, which
+failing an answer renders them futile. (My series of Notes on Prophecy,
+to which this belongs, addresses just this problem.)
+
+Let me return to my little historical excursus:
+
+Moshe was faced with a completely different problem: Despite the
+vicissitudes leading up to and following the exodus from Egypt, the
+monotheistic lesson seems largely to have been learnt. His problem was
+turning an unruly mob of ex-slaves into a nation. The road he chose was
+institutionalization with a heavy central authority. As much as he may
+have disliked the Egyptian model in which he grew up, he may not have
+had much alternative. The result was indeed the Egyptian model with
+major modifications. They were dictated by prophetic communications to
+remove the worst features of Egyptian civilization and even introduce
+something new: He introduced the first ever social legislation – a
+universal day of rest, regulation of slavery, women’s rights and so on.
+These laws, which we take for granted today, were then revolutionary.
+You might like to compare, the rights and obligations of the Egyptian
+priestly class (in Joseph’s time) to those of the כהנים. Notice that the
+Israelite priests do not have irrevocable land rights – in fact they
+have none at all! Yet both groups institutionalized and centralized
+parallel public roles.
+
+Moshe introduced something else as well: The ritual, and more
+specifically, the sacrificial ritual. Rivers of ink have been spilt
+trying to explain why this was done, what purpose it was intended to
+serve, and to what extent it remains relevant. I do not wish to get
+involved in the issue here. What is important, is that the old family
+tradition of Abraham (starting with the Creation story), the social
+legislation, the ritual and Moshe’s traveling diary got bound together
+into a document which has come down to us as the תורה. The issue of who
+wrote what at whose behest always raises hackles – arguments around
+“holiness” always generates much heat and are invariably inconclusive,
+and in my opinion totally useless.
+
+For the purposes of developing my “Quo Vadis” for Judaism, I am going to
+start from the following lightweight assumptions about the תורה:
+
+Assumption 1:
+
+From the period of Abraham onwards, it is generally historically
+accurate, but there are occasional mix-ups with timing and numbers. The
+people, who wrote the historical narratives including the Creation
+story, were not historians; in fact, the narratives tended to be chosen
+to make a point with ethical monotheistic content. The dry historical
+facts were often supplemented by prophetic insights, turning
+historiography into a form of historiosophy. (Thus, the famous argument,
+האם יש ,מוקדם או מאוחר בתורה is in my view, irrelevant.)
+
+Assumption 2:
+
+The way in which legislation, be it social or religious was integrated
+into the document does try unsuccessfully to make it a “do it all or
+nothing” affair, however for logistic reasons there was inadequate
+written information giving rise to the development – almost from the
+very beginning of an “unwritten” code, the Oral Law. The passing of
+about 3,500 years has enabled us to systematize the Oral Law to a
+certain degree, but we have almost no knowledge of its workings until
+the late Second Temple period, when people started keeping notes. What
+we are left with therefore, is an interpretation of the original
+document (I hope!) as seen through the eyes of legislators, subject in
+turn, to the cultural (and political) pressures, first of the Persians,
+then the Greeks and finally the Romans. It is a matter of record, that
+the contact between Judea and Hellas was the most profound of the three,
+for better or for worse. The practical implications are very simple: The
+Tana’itic interpretation of the תורה under the Greek cultural hegemony
+is no more “correct” than the interpretation of the European masters
+under the influence of murderous Christian persecution. The “correct”,
+is very simply, what survives. My attitude, therefore, will be use the
+legislative part of the תורה as a toolbox, selecting and interpreting
+components to achieve the same ethical monotheism which Abraham sought,
+and if I can, adding a touch of the prophetic.
+
+Assumption 3:
+
+If Assumption 1 says that the תורה contains a collection of
+historiosophic lectures, and Assumption 2 says that it contains a
+toolbox with tools intended to meet the contingencies of Assumption 1.,
+then whole thing is held together and given shape, color and texture by
+the historical context. However, events as important as they are, must
+never become mixed up with the objective – there can be no such thing as
+historical dogma. (Perhaps I may anticipate myself a little: Again, take
+my earlier example of the בר מצוה kid, 100 years hence, living in orbit
+around Alpha Centauri. The chances are, that he will never visit Earth,
+has never seen a cow, and hasn’t the faintest idea what it’s like to
+live in anything but 0.1g – Why didn’t they just jump over the Red Sea
+thing? Anyway, what is a sea?) It is unlikely, that a Jew of the future
+living off-planet will have a real enough grasp of the historical
+realities mentioned in the תורה, to express an opinion. To demand that
+he “מאמין באמונה שלמה ...” is farcical.
+
+What emerges from the foregoing discussion is that in our reassessment –
+we are going to have to start right back at the very beginning – the
+תורה itself. (I can already hear the howls of rage!) The style of
+thinking which lead to the משנה and all that followed won’t do. Trying
+to legislate, or even lay down guidelines in the framework of 16,000
+questions cannot be done – indeed should not be done using the
+scholastic acrobatics of the early תנאים. The mystic concepts of the
+holiness of every letter, the absolute necessity for every word and
+letter to be where they are will not help us here. Let me make myself
+very clear: For the purposes of this Note, I hold no view whatsoever on
+the issues of holiness, immutability and eternity of the text of the
+תורה. In the light of Assumptions 1 to 3 above, they are simply
+irrelevant to this discussion.
+
+In any treatment of the 16,000 questions, there is room for flair,
+imagination and hopefully inspiration. There is no room whatsoever for
+textual mysticism even as an implicit base for the legislation required.
+Remember, that our בר מצוה kid may not have access to the תורה. Even if
+he does, would he have enough Hebrew to understand the textual
+subtleties, which are supposed to govern the practice of his life? There
+has to be better way.
+
+And having said all that, I am very conscious of the need not to throw
+out the baby with the bathwater. Anyone who has studied the תלמוד, even
+at the most elementary level, will be well aware that opinions are
+frequently put forward, and only afterwards a proof text is found. The
+masters of the משנה and the גמרא were no fools, and many of them
+displayed exactly the kind of pragmatism to which we must aspire. I
+would not hesitate to use their wisdom, but without feeling constrained
+by “rules of the game” as understood by them, in their time. I will not
+look for a proof text to legislate on a cardinal issue, perhaps related
+to our survival as a nation. (If someone else wants to find one ex post
+facto – שיהיה לבריאות.)
+
+I can still hear the howls of rage, the gnashing teeth and the shrieks
+of “! אפיקורס! פריצות”
+
+Let me add a little more oil to the fire:
+
+What is the difference between what I am proposing and Reform Judaism?
+After all, their sin is supposedly, adapting observance of the תורה to
+our times. Or is it? This is not the place to go into a lengthy analysis
+of Reform Judaism, so I will be brief: One of the main motivations of
+Reform Judaism both at its birth in Germany and in its contemporary
+American clothing, was simply to be “like everyone else” – at least
+externally. The historical reasons are well enough known. Today,
+American Reform is just a railway station for those leaving Judaism to a
+washed-out American Christianity, or perhaps nothing at all. It is also
+a cheap way in for a non-Jew who wishes to marry a Jew. In a word,
+Reform = Assimilation.
+
+My thesis is designed to achieve the opposite: To ensure that Judaism to
+survives as an organic socially constructive and effective factor. The
+reform I propose is just that: It is **r**eformfootnote:[In the sense of
+תיקון.], not **R**eform.
+
+Even if some of the answers to the 16,000 are the same as those given by
+the Reform movement, the similarity is only formal or textual. The
+distance between what I seek and the Reform solution is further than the
+distance from here to Alpha Centauri.
+
+In the paragraphs following, I will look at several topics with a
+Halachic bent. It is not my aim to lay down הלכה here; it is merely to
+illustrate the style of thought required. The final Halachic decisions
+will ultimately be made by those best qualified to make them. The items
+selected for discussion below, are in no significant order, nor are they
+necessarily the most important problems. I chose them, simply because at
+some time I thought about them.
+
+== The הלכה in orbit
+
+=== The calendar
+
+The problem of the calendar is undoubtedly one of the most difficult
+because so much of Jewish life is linked to it. So long as we remain on
+Earth or in geo-synchronous orbit around it there is no real problem
+much different than traveling on a ship or an airplane. Things start to
+get complicated when we are on the moon, or further out.
+
+As long as we remain inside the Solar system, we do have a let-out: We
+can switch to a solar calendar. Once again, I can hear the howls of
+fury! Using my three assumptions above, however, leads to something a
+little more constructive. First, there is nothing inherently sacrosanct
+in the lunar calendar. When Israel left Egypt – that is what they had
+and that is what they used. Its’ main advantage was that anyone could
+work by it by looking at the moon, which for most part appears daily
+with great reliability. (In the Middle East, even in winter, clouding of
+several consecutive days is not that common.) By contrast, a solar
+calendar – better suited for business and agriculture, is much harder to
+calibrate. So, the first פסח took place on a full moon (also for very
+good logistic reasons!), in the first month of the spring period – which
+of course has to be determined for the equinox i.e. the sun!
+
+From my point of view, 3,500 years or so later, it is less important for
+me that פסח fall on the full moon, than it falls in spring as demanded
+by the תורה. פסח is also a spring festival, related to the wheat
+harvest. If we set ראש חודש Nissan to the Spring equinox (or if you
+prefer 15 days before – it doesn’t matter), and build our solar calendar
+from there, we have a really universal solution, at least within the
+Solar system. The question of dividing up the year into months and
+handling leap years will be rather like the present civil calendar
+without its idiosyncrasies. The use of months alternating between 30 and
+31 days is indicated, and the allocation might reflect those months
+which traditionally have one or two days ראש חודש. Like the Gregorian
+calendar, we will need to add a day to a selected month every four years
+will suitable corrections every 100 and 400 years. (אדר is a good choice
+– the last month in the Hebrew year based on Nissan.)ב' אדר will of
+course disappear. נאמני הר הבית will be annoyed that the ceremonies
+around witnessing the new moon, will simply become meaningless, or
+better still, not happen. We must try not to clutter our reforms with
+meaningless rituals, simply because someone did them over 2000 years
+ago.
+
+Outside the Solar system the situation is vastly more complex. First, if
+any notion of standard time is to be retained, it will need to be based
+(as it is already in the scientific world), on counting atomic
+vibrations (or some other discrete phenomenon) under controlled
+conditions.
+
+Next, we cannot be certain that identical clocks in remote systems will
+agree as to elapsed time for a given count. Finally, even if we can
+agree on a time standard of sorts, there are even deeper problems:
+
+Let us take something relatively simple: Consider a mining space station
+in heliocentric orbit in the asteroid belt, operating with artificial
+gravity of say 0.2g (That’s not science fiction: It’s a matter of spin.)
+Persons who are born and grow up in this environment, may find it more
+convenient to use a longer day cycle – say 35 hours, for a ten-day rest
+period, simply because there is less strain on the human organism under
+such conditions. (One can expect a short year = 1 revolution around the
+sun.) The station’s internal calendar may have no obvious relationship
+either to any earth-based calendar or to the actual time on earth. This
+brings us to a more general consideration of -
+
+=== Time dependent מצוות
+
+It is tempting to continue the discussion of the previous section,
+analyzing the various time dependent מצוות – and reaching brilliant
+solutions for every individual case. The trouble with such an approach,
+is that it is ugly and most likely not applicable. Most likely, any such
+“kludge” solutions will be ignored by the mass of the Jewish population
+- just as most of them ignore rabbinic rulings today.
+
+Any solution to this problem will need to be elegant (so as not to
+antagonize the target population) and simple (so that it can be carried
+out as widely as possible).
+
+Here is a “first cut” at a solution: Let us first observe that there are
+three Halachic generalizations about time dependent מצוות:
+
+[arabic]
+. Women are not obliged to keep time dependent מצוות – with certain
+exceptions. There is an extensive discussion on the subject in קידושין,
+which gives several reasons for it, but without deciding in favor of any
+of them. Popular feeling has it, that women, being involved with looking
+after children, cooking, cleaning and generally running the domestic
+household, cannot be held down to fixed ceremonial schedules. In a
+slightly more analytic style, a person subject to substantial
+asynchronous interruptions cannot be expected to maintain synchronous
+ceremony.
+. Saving of life (פקוח נפש) defers all מצוות. The life in question can
+be one’s own or someone else’s, and this idea is given a wide lenient
+interpretation. (The three “big” exceptions are not relevant to our
+discussion.footnote:[שפיכות דמים, גילוי עריות, עבודה זרה.])
+. There is a consensus that keeping מצוות outside the land of Israel is
+מדרבנן rather than מדאורייתא. The main reason given for maintaining them
+in the Diaspora, was to ensure that they would not be forgotten when all
+the Jews return to Israel. Curiously enough, the consensus was not as
+broad as you might have thought. Many מצוות carry a ברכה, of the form
+“אשר קדשנו במצוותיו וצונו ...” which would have had to be dropped in the
+Diaspora from ספק ברכה לקולא. That never it happened showed very good
+sense, and we will make use of this interesting fact in the next two
+sections.
+
+I have displayed three blanket rulings, one about time dependent מצוות
+and two about all of them. What can they do for us?
+
+I suggest for discussion the following proposals for off-planet usage:
+
+[arabic]
+. All מצוות are מדרבנן.
+. All time dependent מצוות are advisory only, to be kept at the
+individual’s option or by communal agreement.
+
+[arabic, start=14]
+. All non-time dependent ritual מצוות are obligatory insofar that they
+can be carried out within the local –
+
+* Ecology
+* Social environment
+* Calendar
+
+[arabic, start=15]
+. All social מצוות (בן אדם לחברו) will need to be dealt with on an
+ad-hoc basis using much the same considerations as were used in the
+diaspora.
+. There is a major difference between “in transit”, and being on a space
+station or a planet. In transit is a state of פקוח נפש, unless we are
+dealing with a Noah’s Ark type journey in a large very secure space
+liner – which may be treated as a small planet.
+. Both space stations and planetary settlements have their pioneering
+and stable phases. Pioneering phases are to be considered as ongoing
+states of פקוח נפש. The transition from a pioneering phase to a
+stability phase is far from clear-cut. In a planetary situation, the
+stability phase begins with the arrival of a second wave of colonists,
+or alternatively, the maturing of the second generation. It may take
+several generations to reach a point that the פקוח נפש state can be
+relaxed. It is a major sociological problem that an enactment may start
+out as a פקוח נפש, or some other temporary measure (הוראת שעה), becomes
+ingrained. A great deal of wisdom on the part of communal leadership is
+required to prevent this sort of thing. We have seen enough of it here
+on earth over the last 400 years. (These considerations are not unique
+to Judaism!)
+. For an earth like planet with a friendly stable eco-system, enabling
+the growing of earth-like crops and animals, it may be possible to carry
+out many of the מצוות no differently than is done in the Diaspora today,
+with obvious variations for calendar and seasonal differences.
+. The possibility of securing a complete earth-like planet, and creating
+“New Israel” should be considered. The implications are fascinating, and
+far too complex to examine here. Suffice to say, that such a measure may
+become a necessity if we cannot shake off the idiotic and senseless
+hatreds of the past 2000 years.
+
+In the foregoing, I am not taking the Reform line of “being like
+everyone else”. There is a limit however, as to how far you can stretch
+such differences in a closed highly disciplined environment of a space
+station without causing social friction, which could physically endanger
+it (פקוח נפש). This requires a great deal of wisdom.
+
+The other side of the coin is, that where such מצוות are implemented,
+the attitude should remain, that they are no different from those
+carried out in an earth-side diaspora center. In a word, a Jew is a Jew
+is a Jew no matter where he lives. There are no “castes”: Those who live
+in Israel, those who live on the earth and those who live off-planet …
+are all the same before God.
+
+=== Affixing a מזוזה
+
+I will use principle 3 of section ‎4.2 to discuss a rather prosaic
+mitzvah – but one which seems to have a certain emotional element for
+some people.
+
+For the sake of argument, I will again revisit my family in orbit around
+Alpha Centauri:
+
+We all know that you don’t place מזוזות in ships, airplanes, motorcars
+or any other form of transport – even if you are confined to them for an
+extended period e.g., on a sailing ship. The space station is in
+permanent orbit and is therefore considered a small planet. You may (or
+must?) therefore affix a מזוזה to doors insofar that they are
+identifiable as such (i.e., I exclude airlocks, membrane doors (make a
+hole as you go through, and they self-seal. They are the best way to
+prevent spread of dust and airborne diseases.)
+
+So, our family has a series of portals within its living area, which may
+be considered “doors”. Next, given that until the realization of
+science-fiction like “warping” through gravitational singularities (like
+moving between sheets in the complex plane at singular point), we must
+assume that space economies will tend to be fairly localized.
+Transportation of several pieces of cured cowhide with a bit of writing
+across about 4.3 light years at sub light speed would be prohibitively
+expensive (and take a long time to arrive).
+
+A principle is required here, but first let me outline my solution:
+
+[arabic]
+. If the cost of a real מזוזה is less than say, double that on earth
+(having regard for suitable economic indexes), then “the real thing”
+should be used.
+
+[arabic, start=20]
+. If the cost is higher, then a suitable stable artificial material
+should be chosen, which at least looks like and feels like קלף. It
+should preferably be handwritten, using suitable ink, according to the
+usual rules of סופרות. If there is no one capable of doing it, then it
+should be printed on the medium using a traditional font, from stored
+text.
+. The same applies even if cost is not an issue, but it is found that
+earth-organic material like קלף and the traditional ink, deteriorate in
+the local atmosphere at a rate requiring replacement in less than seven
+earth standard years.
+. Such artificial מזוזות will carry an invisible but indelible
+indication (like a watermark) indicating that they are for use
+off-planet only.
+
+In both cases 2 and 3, the affixing will be carried out with a ברכה, so
+that the mitzvah, its method of execution and its social context, will
+not be forgotten.
+
+=== Succot: סוכה and לולב
+
+In what follows I refer to the ארבע מינים as לולב. I chose it because it
+differs from the מזוזה in a very essential way: It is very much of this
+planet, and the four constituent species are bound to be meaningless to
+someone born and raised off-planet.
+
+Nevertheless, in the spirit of section ‎4.2, I would allow the use of
+hydrophonics to grow them. If the לולב was not available, we would have
+to consider look-alikes, or the mitzvah would be lost.
+
+סוכה is of course, an impossibility in any kind of space station – or is
+it? In a small space station in planetary orbit, there is little you can
+do. On a full-scale permanent station, it may be possible to do a mock
+up in an open area. There would be a good case here for dispensing with
+the relevant ברכות.
+
+=== Kashrut
+
+Even the most cursory examination of ויקרא י"א, shows that the various
+creatures deemed non kasher for consumption (outside the general rule of
+מפריס פרסה and מעלה גרה), are grouped environmentally and not
+biologically. Since none of those environments exist off-planet, the
+concepts of kashrut are irrelevant. All artificial bio-products used in
+space are a priori, kasher, whether cellulose based or protein based.
+There is no such thing as “basari” and “chalavi” off-planet. On an
+earth-like planet, having consumable flora and fauna, the general rule
+will be that herbivorous creatures are kasher; carnivorous creatures are
+not. Within that framework, the local Rav will need to make individual
+decisions, which will be binding on both residents and visitors. The
+concept of מנהג המקום will be very important, and we may need to give
+some thought to setting up a central database of such matters.
+
+=== The laws of נידה
+
+There are several issues to deal with here:
+
+* The notion of a מקווה כשרה.
+* טהרת המשפחה
+
+מקווה is relatively easy to deal with, so we’ll take it first. Rather
+than dealing with the “cure” let us for a moment look at the problem:
+The תורה prescribes several situations requiring טבילה. The most
+well-known case is of course, נידה, which I will discuss in more detail
+soon. In each such case, we have before us an example of טומאה. The
+concept is referred to in the תורה as if self-evident, and to a lesser
+degree in the משנה dealing with the subject. Post-exilic literature
+tried to interpret it as a sort of mystic negative spirituality. The
+bottom line is that we don’t have the faintest idea of what it really
+is, and this is reflected by the relative neglect of the subject with
+two exceptions: טומאת מת (for כהנים) and of course נידה. In both cases,
+the customs are kept mechanically.
+
+Let me recall here, two Halachic curiosities: First there is a Halachic
+determination that only the dead body of a Jew defiles, but not of a
+gentile. That is despite a completely different ruling in the תורה after
+the war against Midian. (דברים ל"א, י"ט). The only explanations I have
+ever seen have a Kabbalistic twist to them.
+
+The second is the concept of .טומאה הותרה בציבור
+
+I suggest then, very simply, that off-planet, there is no such thing as
+טומאה. (This should cause howls of rage from various interested parties
+like מקובלים, who won’t be left with all that much to say.)
+
+Nevertheless, we should try and keep the concept of מקווה around, if
+only to avoid forgetting it.
+
+Oddly enough, in deep space it may be quite easy to keep it, by
+constructing a suitable container, and either harvesting or generating
+chunks of ice to supply it. Of course, it will only work in an
+environment, where there is sufficient gravity to maintain an open pool
+of water.
+
+Having said that, I will regard נידה as a special case. Where the טומאה
+in question also provided a measure of relief for the woman, and
+introduced a measure of rhythmic discipline into what could become mere
+animal behavior. But there are tremendous difficulties: Let us again
+return to our space station operating with gravity of 01.g. Who is to
+say that an average menstrual period will be 28 days? Who is to say that
+menstruation will take an average of 5 days? And, what is a day? I
+suggest we start from here: The menstrual period (whatever it is, is
+“off bounds”. We then take 7/5 = 1.4 times the period instead of שבע
+ימים נקיים, provided that the whole abstention period never exceeds (5 +
+7) / 28 = 42.86% of an average menstrual cycle – all based on the local
+clock.
+
+At the end of the abstention period the woman may either use a מקווה as
+described earlier, or whatever alternate means of total washing as might
+be available otherwise.
+
+It is absolutely vital that a determination be made over the next few
+years, that the use of unconventional facilities off-planet such as I
+have described above, not be considered a blemish in any future מערכת
+יוחסין which may come into being. Although I have strong doubts, whether
+a successful marriage could be effected between a couple, one member of
+which was born and bred on earth, and the other born and bred in 0.1g,
+at some point the biological problems may be overcome, and we must not
+allow a Jewish “caste system” to come into being.
+
+=== Formal תפילה
+
+I have already touched on this matter in my introduction. In a sense,
+this whole series of Notes revolves around the issue of תפילה. Let me
+round out my view by offering a few simple examples of what we may
+expect. Listen to my בר מצוה kid in orbit around Alpha Centauri
+scratching his head and wondering:
+
+* From פסוקי דזימרה, תהילים קמ"ח ג':
+
+ג) הַלְלוּהוּ שֶׁמֶשׁ וְיָרֵחַ הַלְלוּהוּ כָּל כּוֹכְבֵי אוֹר:
+
+Really, where?
+
+ד) הַלְלוּהוּ שְׁמֵי הַשָּׁמָיִם וְהַמַּיִם אֲשֶׁר מֵעַל הַשָּׁמָיִם:
+
+Nonsense. There’s just vacuum outside. Yes, and hard radiation.
+
+* המאיר לארץ, and א-ל אדון על כל המעשים: Are you serious?
+* פרשת והיה אם שמע: What is “rain”? What are “seasons”?
+* ברכת ברך עלינו: I don’t understand. Why don’t they just use
+hydroponics like us?
+* ברכת ולירושלים: Who wants to live in a dirty old city – ugh!
+* ברכת את צמח: Was David something like our station President? What is
+“ישוע”? Who needs it? (And of course, expect an acerbic response, to the
+usual mystic answers.)
+* And what’s all this mystical stuff about need ten of us doing it all
+at once?
+* Saying קורבנות: Animal sacrifices? Burning good livestock for a
+ceremony? Are you crazy? People actually did that?
+
+Thus, our בר מצוה kid in orbit around Alpha Centauri.
+
+Our Liturgy needs to be reworked meticulously and mercilessly, from
+scratch. Along with it, we need to redevelop a method of personal תפילה,
+in the style of Abraham on the one hand, on the other hand, some form of
+communal style for people who find it more comfortable – without
+favoring either. Neither of the established styles should be oppressive
+to those using one form in favor of the other – or perhaps neither. They
+intended to be frameworks, and nothing more.
+
+=== Funeral Practices
+
+This may seem an odd topic to add here. Apart from drawing much
+emotional irrational “steam” there is a pragmatic side to the issue.
+
+In a closed system where mass/energy must be conserved and recycled,
+there is no such thing as waste. Good examples are a multi-generation
+space voyage, a moon (or other hostile environment) base, a remote space
+station and so on.
+
+A human body consists of 60% water and a variety of other compounds. See
+for example,
+https://en.wikipedia.org/wiki/Composition_of_the_human_body[Composition
+of the human body]. In a closed system, after death, all useful tissue
+must be returned to an Organs bank and anything remaining must be
+recovered for recirculation. Nothing may be lost.footnote:[This idea was
+pioneered in Frank Herbert’s Dune series. See
+https://en.wikipedia.org/wiki/Dune_(novel)[Dune] . Incidentally, I
+disagree completely with Herbert’s understanding of the nature and
+function of prophecy.]
+
+Why bring this up here?
+
+Halacha is very clear on one issue: You may not take any benefit from a
+human body. It must be buried whole and as quickly as possible. In
+recent years this rule has been loosened somewhat to allow reuse of
+organs removed from a body immediately after death, for example:
+Corneas, hearts, lungs kidneys etc. The regulations are very tight to
+prevent abuse. However, there is no unanimity on the issue. See for
+example, https://www.yeshiva.org.il/midrash/5630[האם מותר לתרום
+איברים&#44; ולחתום על כרטיס "אדי"?].
+
+In an off-planet closed environmental system, reuse of tissue and
+recycling is mandatory.footnote:[I reject all the arguments against the
+salvage and reuse of organs based on incomplete Resurrection (תחית
+המתים). See Note 04_01 – The Soull, section 4.4.]
+
+Note
+
+This is a bit off-topic, but there are several provisos to the foregoing
+worth mentioning:
+
+* The general rule, “You may not take any benefit from a human body”, is
+always the overriding principle.
+* The only entity qualified to remove and reuse human organs is the
+governing authority.
+* It may authorize private contractors to carry out such activity of the
+basis of fee for work.
+* No private entity, be it an official contractor or otherwise, may
+market these services directly to the public.
+* The governing authority will make available organ transplants on an as
+needs basis (first come – first served) without charge. Changes in queue
+order must be ratified by the governing authority supreme court in a
+published decision setting out reasons for the change.
+* This arrangement may form the basis for wider non-specifically
+Halachic legislation, applying to any deceased human being regardless of
+race and religion.
+
+== Returning to earth
+
+One thing is clear from the above examples. The idea of an
+all-encompassing, all bindingשולחן ארוך" ” has had its day. What we are
+developing is a set of such codes linked to our 2 x 13 (or more
+conditions). In the section ‎4.5 on kashrut I mentioned the idea of a
+central registry containing a database of Halachic decisions. A major
+function of בית שלישי, and perhaps, subsequently a similar such
+institution on the planet New Israel will be to regularize and maintain
+such a database.
+
+However, we must never lose sight of our objective: to maintain a
+certain form of Judaism, which I labeled ethical prophetic monotheism.
+If the formal Halachic part gets out of hand, at the expense of broad
+social justice and equity - as it has today, we will have achieved
+nothing – except perhaps, setting up another “big business” to employ
+thousands of useless functionaries. We must not fall into the trap of
+creating a Jewish inter-stellar version of the Catholic Church.
+
+== Accepting converts
+
+If we do the thing right, we should expect a great deal of interest from
+non-Jews who wish to join us. There is ample precedent for this from the
+Second Temple Period. How will we deal with it?
+
+I offer one brief observation: Jesus on his cross is infinitely more
+portable and more mutable than any form of Judaism with its dominant
+element of communal responsibility. Also, very portable and mutable, is
+the Christian legacy of prejudice, hatred and murder, which I have no
+reason to believe, will ever change.
+
+We may be faced with an all or nothing decision: Accept all converts
+(like Abraham, and even Moshe), and become the dominant faith in the
+inhabited universe, or accept a just a few under the existing
+restrictive conditions and sink back into being a marginal persecuted
+minority – which may even disappear. What are we here for?
+
+As far as Islam is concerned, the Moslems have contributed nothing to
+world culture since the Middle Ages, and eve then most of their
+contribution has been transmission of eastern culture westward, and the
+preservation of the Greek culture in the face of medieval Christian
+bigotry. Islam is, and will remain a desert religion well suited to
+terrorists and small-time warlords. Once we are in space, its strength,
+which derives from its adherents sitting on a third of earth’s oil
+reserves – will become irrelevant. As Islam is a dangerous nuisance
+today, it will remain a dangerous nuisance in the future.
+
+== Reactions (2001)
+
+I dedicated this Note to my son Chezzy and his bride Tamara. Some months
+after their wedding, and having heard no comment from Chezzy, I asked
+what he thought of it. He said that were it not for כיבוד אב, he would
+have put into גניזה (archive) and forgotten about it. Chezzy is
+otherwise, very open minded and of better than average intelligence.
+
+Rabbi Moshe Tzuriel, my long-time correspondent and critic, just didn’t
+want to discuss it.
+
+Is there any hope for us?
+
+== Post Script (2022)
+
+I added this Post Script during פסח of תשפ"ב, 2022, twenty-one years
+since my first edition of this Note.
+
+My son Chezzy and his wife Tamara now live in Beit Chaggai in the South
+Chevron Hills with eight of their nine children. Their eldest daughter
+is just married and lives in Jerusalem. I can’t help chuckling over the
+idea that one of their future great grandchildren might well be my בר
+מצוה kid in the space station orbiting Alpha Centauri.
+
+I am more than ever convinced that this Note is “in the right
+direction”. To follow it up, I offer the Israel Independence Day Address
+by my בר מצוה kid, who is now the Chief Astrogator on the Alpha Centauri
+Space Station. (See _Address to the State of Israel – Independence Day
+2148_.)footnote:[Added below for convenience.]
+
+By 2148, Space Station *_Dvořák_*footnote:[Inspired by his “New World
+Symphony”.] had been in orbit around Alpha Centauri a little under a
+year standard. Its mission was to search for new habitable worlds and
+harvestable resources such as mineable asteroids.
+
+The mission became practicable thirty years earlier, following the
+discovery of effective trans-lightspeed space warping. Space warping
+could only take place far away from any other masses, so space journeys
+still took many years. However, messaging across space suffered very
+little time lag.
+
+Yechezkel Feiglin, known to his friends as “Chezzy”footnote:[The prophet
+Yechezkel=Ezekiel, best known for his Valley of the Dry Bones vision, is
+in Hebrew, “Yechezkel”. The nickname “Chezzy” derives from it.] was of
+the first generation born and raised on the *Dvořák.* His parents came
+from Israel and were both educated (and met) at the Ilan Ramon Institute
+for Space Exploration in the Negev.
+
+In keeping with space station policy, organized religions were strictly
+forbidden on-board as was any kind of “missionizing”. Chezzy was raised
+in the spirit of modern Israeli MEPfootnote:[MEP Judaism=Monotheistic
+Ethical Prophetic Judaism] Judaism. Since a large part of the world had
+shaken off myth-based religions in favor of various forms of Ethical
+Monotheism, Chezzy’s family did not appear significantly different from
+the rest of the station crew. What singled out Chezzy, were an eidetic
+memory and mathematical ability, both family traits going back several
+generationsfootnote:[Chezzy in a lineal descendent of the נודה ביהודה so
+maybe that is no great surprise.].
+
+It was no surprise that Chezzy eventually rose to the rank of Chief
+Astrogator.
+
+Since messaging across space was very close to real time, Station crew
+were able to maintain contact with family and friends. Chezzy’s family
+maintained contact with home through the Ilan Ramon Institute
+communication center.
+
+Early in 2148, Chezzy received a message from the communications center:
+Could he prepare a brief address to the people of Israel for
+Independence Day 2148, celebrating the 200^th^ anniversary of the State
+of Israel?footnote:[Israeli Independence Day (ה' אייר) falls early in
+May, about a week after the Passover Holyday.]
+
+Here then, is the text of Chezzy’s address:
+
+Two hundred years ago, the modern State of Israel came into being
+culminating nearly 2000 years of blood-soaked exile. Founded against the
+backdrop of 3500 years of culture, law and faith, the State of Israel
+took upon itself to provide equal rights to all its citizens, promote
+national prosperity and to be at the forefront of scientific research
+and development in all fields of human endeavor. The space station
+*Dvořák*, from where I transmit these words, fulfills that promise,
+including an Israeli contribution of major proportions.
+
+As modern Israel enters its third century, it behooves us all to
+remember in this Space Age that Israel as “a light unto the nations” is
+an eternal beacon to the home of humanity.
+
+Israel must ensure that humanity in its quest to outer space, does not
+forget Earth or itself. Israel has been “remembering” longer than any
+people on Earth. It is Israel’s task is to continue to remember.
+
+Israel is an eternal beacon to the home of humanity. The beacon is Earth
+– Israel – Jerusalem – The Temple Mount – The Third Temple – The Holy of
+Holies, which remains an empty enclosure - perhaps for the best.
+
+It is sanctified by memories of the past and the ongoing remembering of
+the present and into the future.
+
+It commemorates the Creator of the universe that we are just beginning
+to explore.
+
+May the third century of the State of Israel be a blessing to all
+humanity.
