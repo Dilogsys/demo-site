@@ -408,7 +408,7 @@ leads into the Kabbah stone area. Given the relative size of the block,
 its purpose, and the size of the population it is expected to service,
 it should be a multi-floor reinforced concrete structure.
 
-image:media/image1.jpeg[mecca-radial,width=576,height=577]
+image::../image/mecca-radial.png[Mecca-Radial,width=576,height=577]
 
 The second editorial, “Nemesis” of 22 September 2007 describes the
 destruction of the Kabbah stone area:
