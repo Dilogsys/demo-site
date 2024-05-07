@@ -1,0 +1,7 @@
+*Welcome to the Dilog demo site!*
+
+We have three kinds of demo documents. They were converted from MS Word (2016) to Asciidoc with very little post processing. So they are bound to be a bit clumsy.
+
+* Occasional xref:essays.adoc[essays]
+* xref:short_stories.adoc[Short stories] collection
+* From my xref:prophecy_notes.adoc[Prophecy Notes]
