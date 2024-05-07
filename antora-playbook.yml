@@ -1,6 +1,6 @@
 site:
     title: Demo Site
-    start_page: index.adoc # Change this
+    start_page: index.adoc
 content:
     sources:
     - url: https://github.com/Dilogsys/demo-site
