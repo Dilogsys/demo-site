@@ -3,7 +3,7 @@ site:
     start_page: index.adoc
 content:
     sources:
-    - url: https://github.com/Dilogsys/demo-site
+    - url: https://Dilogsys:$Vk1PtuNa%Z^5brm@github.com/Dilogsys/demo-site
 #    - start_path: ./
 ui:
   bundle:
